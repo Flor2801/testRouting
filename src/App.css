@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+nav {
+  display: flex;
+  background-color: pink;
+
+}
+
+.parrafo {
+  padding: 20 px;
+  font-weight: 600;
+  color: red;
+  margin: 30px;
+}
+
+p {
+  font-size: 30px;
+  margin: 20px;
+}
